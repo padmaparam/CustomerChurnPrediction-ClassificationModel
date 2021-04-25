@@ -1,4 +1,4 @@
-# Bank Credit Card Customer Churn Prediction and Analysis
+# Bank Credit Card Customer Churn Analysis and Prediction
 <br />[Introduction](#introduction)
 <br />[Data Wrangling](#datawrangling)
 <br />[Exploratory Data Analysis](#exploratory-data-analysis)
